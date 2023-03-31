@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de59cf5b-8a0b-4c7e-9bf9-ab1266bc9d6a": {
+      "ProjectGuid": "de59cf5b-8a0b-4c7e-9bf9-ab1266bc9d6a",
+      "DisplayName": "Realtime Networking Server",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
